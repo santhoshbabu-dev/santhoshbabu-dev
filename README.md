@@ -61,5 +61,5 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: (Add your link)
-* Email: (Optional)
+* LinkedIn: (https://www.linkedin.com/in/sikhapalli-santhosh-babu-741657280)
+* Email: (santhoshtempo1@gmail.com)

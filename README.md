@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Santhosh Babu
 
-<!--
-**santhoshbabu-dev/santhoshbabu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer | DSA Learner | Full Stack Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning **Spring Core, Spring MVC, Spring Boot & Microservices**
+* 💡 Strong in **Core Java, OOP & Collections**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🌐 Exploring **Full Stack Development**
+* 🎯 Goal: Become a **Software Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+* Java (Core Java, JDBC, Servlets)
+* Spring Core, Spring MVC, Spring Boot
+* REST APIs & Microservices
+
+### 🌐 Frontend
+
+* HTML, CSS, JavaScript
+
+### 🛢️ Database
+
+* MySQL
+
+### ⚙️ Tools
+
+* Git, GitHub, Eclipse, VS Code
+
+---
+
+## 📌 Projects
+
+### 🚌 Online Bus Ticket Booking System
+
+* Built using **Java, Servlets, JDBC, MySQL**
+* Features:
+
+  * User Registration & Login
+  * Bus Search & Booking
+  * Booking History
+
+### 🔐 User Authentication System
+
+* Login & Registration using **Servlets + JDBC**
+
+---
+
+## 📊 GitHub Stats
+
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: (Add your link)
+* Email: (Optional)
